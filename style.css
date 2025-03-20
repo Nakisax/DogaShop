@@ -20,7 +20,8 @@ body{
 }
 .item-1{
     background-color: green;
-    margin: auto;
+    margin-left: 10px;
+    margin-right: 10px;
     margin-top: 10px;
     width: 200px;
     height:340px;
